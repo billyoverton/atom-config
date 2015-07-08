@@ -1,0 +1,18 @@
+"*":
+  welcome:
+    showOnStartup: false
+  core: {}
+  editor:
+    invisibles: {}
+    tabLength: 2
+    showInvisibles: false
+    fontFamily: "Inconsolata"
+    showIndentGuide: false
+    excludeVcsIgnoredPaths: true
+    fontSize: 17
+  build: {}
+".python.source":
+  editor:
+    tabLength: 4
+    showIndentGuide: true
+    preferredLineLength: 72

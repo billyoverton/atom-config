@@ -1,0 +1,4 @@
+file-icons@1.5.8
+language-arduino@0.2.1
+line-ending-converter@1.1.0
+
