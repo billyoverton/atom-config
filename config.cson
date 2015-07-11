@@ -11,6 +11,8 @@
     excludeVcsIgnoredPaths: true
     fontSize: 17
   build: {}
+  "exception-reporting":
+    userId: "c59a21e1-4b0b-4a0c-2dcd-d0759cdf9b2b"
 ".python.source":
   editor:
     tabLength: 4
